@@ -1,0 +1,16 @@
+{
+  "rewrites": [
+    {
+      "source": "/num",
+      "destination": "https://reuters-memorabilia-insulin-disclose.trycloudflare.com/num"
+    },
+    {
+      "source": "/aadhar",
+      "destination": "https://reuters-memorabilia-insulin-disclose.trycloudflare.com/aadhar"
+    },
+    {
+      "source": "/email",
+      "destination": "https://reuters-memorabilia-insulin-disclose.trycloudflare.com/email"
+    }
+  ]
+}
